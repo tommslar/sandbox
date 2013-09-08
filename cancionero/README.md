@@ -29,3 +29,5 @@ que sea aceptado.
   * Yo acepto si es correcto
 * Cuando todos mis co-workers terminan realizo un pull request al repositorio de
   la cátedra
+* **Para finalizar y completar la actividad, cada alumno deberá subur al moodle la
+  canción completa antes de la fecha establecida**
