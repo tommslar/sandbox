@@ -13,5 +13,5 @@ luego **pull requests**
 
 ## Actividades
 
-* [El directorio `alumnos/`](sandbox/alumnos)
-* [Cancionero](sandbox/cancionero)
+* [El directorio `alumnos/`](./alumnos)
+* [Cancionero](./cancionero)
