@@ -13,5 +13,5 @@ luego **pull requests**
 
 ## Actividades
 
-* [El directorio `alumnos/`](https://github.com/TTPS-ruby/sandbox/alumnos)
-* [Cancionero](https://github.com/TTPS-ruby/sandbox/cancionero)
+* [El directorio `alumnos/`](sandbox/alumnos)
+* [Cancionero](sandbox/cancionero)
