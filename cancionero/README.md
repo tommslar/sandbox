@@ -21,7 +21,7 @@ que sea aceptado.
 * Clonar este repositorio
 * En el directorio cancionero crear un archivo con el nombre de un tema, por
   ejemplo: `iron_maiden-can_i_play_with_madness.txt`
-* Completar alguas estrofas de mi archivo
+* Completar algunas estrofas de mi archivo
 * Advertir a mis co-workers que finalicé mi parte para que puedan avanzar
   clonando mi repo 
   * Cada co-worker deberá clonar **mi repo** 
@@ -29,5 +29,5 @@ que sea aceptado.
   * Yo acepto si es correcto
 * Cuando todos mis co-workers terminan realizo un pull request al repositorio de
   la cátedra
-* **Para finalizar y completar la actividad, cada alumno deberá subur al moodle la
+* **Para finalizar y completar la actividad, cada alumno deberá subir al moodle la
   canción completa antes de la fecha establecida**
