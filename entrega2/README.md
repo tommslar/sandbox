@@ -57,6 +57,8 @@ de descuentos son:
   * Si la lista de productos tiene más de 10 productos, se cobra el 20% menos
   * Si la lista de productos tiene más de 3 productos iguales, cada 3 paga 2
 
+**Nota**: Hay que implementar los dos descuentos de ejemplo!
+
 Ejemplo de instanciación:
 
 ```ruby
